@@ -19,7 +19,7 @@
                         <div class="col-sm-3"></div>
                         <div class="col-sm-4 text-center">
                             <h1><b>Operator Aritmetika</b></h1>
-                            <h3>20192205109 - Falensius Mintu </h3>
+                            <h3>20192205094 - Falensius Mintu </h3>
                             <p>
                                 <?php
                                 $hari = date('l');
